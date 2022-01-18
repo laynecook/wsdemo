@@ -1,0 +1,26 @@
+{
+  "name": "wsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laynecook/wsdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laynecook/wsdemo/issues"
+  },
+  "homepage": "https://github.com/laynecook/wsdemo#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.6",
+    "express": "^4.17.2",
+    "utf-8-validate": "^5.0.8",
+    "ws": "^8.4.2"
+  }
+}
